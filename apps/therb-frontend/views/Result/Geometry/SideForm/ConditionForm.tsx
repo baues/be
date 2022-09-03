@@ -1,11 +1,12 @@
 import React from "react";
-import { TransparentPanel } from '@be/baues-uikit';
+// import { TransparentPanel } from '@be/baues-uikit';
 import Stack from "@mui/material/Stack";
 import WwrForm from "./WwrForm";
 import ProgramForm from "./ProgramForm";
 import SpaceTypeForm from "./SpaceTypeForm";
 import { useGeometryContext } from "../GeometryContext";
 import { Button } from "@mui/material";
+import TransparentPanel from "../../../../components/baues-uikit/TransparentPanel";
 
 export default function ConditionForm():React.ReactElement{
   const { setDetailDialog } = useGeometryContext();

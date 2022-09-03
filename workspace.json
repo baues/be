@@ -2,7 +2,6 @@
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
   "version": 2,
   "projects": {
-    "baues-uikit": "libs/baues-uikit",
     "building-editor": "libs/building-editor",
     "building-editor-react": "libs/building-editor-react",
     "therb-frontend": "apps/therb-frontend",

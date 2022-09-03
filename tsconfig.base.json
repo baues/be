@@ -15,7 +15,6 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@be/baues-uikit": ["libs/baues-uikit/src/index.ts"],
       "@be/building-editor": ["libs/building-editor/src/index.ts"],
       "@be/building-editor-react": ["libs/building-editor-react/src/index.ts"]
     }

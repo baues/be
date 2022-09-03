@@ -1,6 +1,7 @@
 import { useTimeseriesContext } from './TimeseriesContext';
-import LineChart from '../../../components/baues-uikit/LineChart';
+// import LineChart from '../../../components/baues-uikit/LineChart';
 import { convertPayloadToLineChartData } from '../../../utils/timeseries';
+import LineChart from 'apps/therb-frontend/components/baues-uikit/LineChart';
 
 //export type LineChartData = (string | number | Date)[][];
 export type LineChartData = any[][];
