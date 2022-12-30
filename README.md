@@ -3,7 +3,7 @@
 # Be
 
 This monorepo was generated using [Nx](https://nx.dev).
-This is a monorepo for therb-frontend.
+This is a monorepo for building-editor suits.
 
 # Installation
 
